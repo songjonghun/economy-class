@@ -1,0 +1,20 @@
+.line{
+    margin: 20px;
+    border: 1px dotted black;
+}
+.margin_3{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.selectbox{
+    width: 300px;
+}
+.sub{
+    background-color: palegoldenrod;
+    font-weight: 1000;
+}
+.totalsub{
+    background-color: rgb(236, 243, 199);
+    font-weight: 1000;
+    text-align: center;
+}

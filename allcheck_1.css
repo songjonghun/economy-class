@@ -1,0 +1,28 @@
+.circle{
+    background-color:#86efef;
+    width:300px;
+    height:auto;
+    text-align:center;
+    font-size:30px;
+    line-height: 250px;
+    margin: 50px;
+    float: left;
+    vertical-align: middle;
+    display: inline-block;
+}
+.setting{
+    border: 0;
+    float: left;
+}
+.center{
+    margin-left: 330px;
+    margin-top: 50px;
+}
+.title{
+    margin-left: 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.table{
+    text-align: center;
+}
