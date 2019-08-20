@@ -1,0 +1,18 @@
+body{
+    margin-top: 20px;
+}
+.margin{
+    margin-left: 20px;
+}
+.margin_2{
+    text-indent: 30px;
+}
+.border{
+    border: 0.5px solid black;
+    margin-left: 20px;
+    width: 180px;
+}
+.btn{
+    float: left;
+    margin-left: 20px;
+}
